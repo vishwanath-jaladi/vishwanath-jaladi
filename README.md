@@ -10,7 +10,6 @@
 🎯 My goal is to become a skilled AI Engineer and Software Developer.<br>
 🌐 Connect With Me<br>
 <br>
-
 <a href="https://www.linkedin.com/in/vishwanath-jaladi-4984ab387" target="_blank">LinkdeIn</a>
 
 
@@ -21,8 +20,8 @@ Machine Learning Concepts<br>
 Git & GitHub<br>
 Problem Solving<br>
 🚀 Goals<br>
-✔ Build useful AI based projects
-✔ Improve coding and logical thinking
-✔ Contribute to open-source projects
-✔ Become a professional AI Engineer
-⭐ “Start where you are. Use what you have. Do what you can.”
+✔ Build useful AI based projects<br>
+✔ Improve coding and logical thinking<br>
+✔ Contribute to open-source projects<br>
+✔ Become a professional AI Engineer<br>
+⭐ “Start where you are. Use what you have. Do what you can.”<br>
