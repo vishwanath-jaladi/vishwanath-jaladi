@@ -10,7 +10,7 @@
 🌐 Connect With Me
 
 
-[![LinkedIn]:(https://www.linkedin.com/in/vishwanath-jaladi-4984ab387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+[![LinkedIn]:(https://www.linkedin.com/in/vishwanath-jaladi-4984ab387)]
 💻 Tech Stack
 �
 �
