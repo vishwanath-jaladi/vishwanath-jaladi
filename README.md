@@ -10,7 +10,7 @@
 🌐 Connect With Me
 
 
-[![LinkedIn]:(https://www.linkedin.com/in/vishwanath-jaladi-4984ab387)]
+<a href="https://www.linkedin.com/in/vishwanath-jaladi-4984ab387" target="-blank">LinkdeIn</a>
 
 
 📚 Currently Learning
