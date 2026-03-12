@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I’m Vishwanath Jaladi
+👀 Profile Visitors
+�
+💡 About Me
+🎓 I am an Engineering Student passionate about Artificial Intelligence and Programming.
+💻 Currently learning and improving my skills in Python, C Programming, and GitHub.
+📚 Exploring topics like Artificial Intelligence, Machine Learning, and Problem Solving.
+🚀 I enjoy building small projects to improve my coding skills and logical thinking.
+🎯 My goal is to become a skilled AI Engineer and Software Developer.
+🌐 Connect With Me
 
-<!--
-**vishwanath-jaladi/vishwanath-jaladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn]:(https://www.linkedin.com/in/vishwanath-jaladi-4984ab387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
+💻 Tech Stack
+�
+�
+�
+�
+�
+�
+📚 Currently Learning
+Python Programming
+Artificial Intelligence Basics
+Machine Learning Concepts
+Git & GitHub
+Problem Solving
+🚀 Goals
+✔ Build useful AI based projects
+✔ Improve coding and logical thinking
+✔ Contribute to open-source projects
+✔ Become a professional AI Engineer
+⭐ “Start where you are. Use what you have. Do what you can.”
