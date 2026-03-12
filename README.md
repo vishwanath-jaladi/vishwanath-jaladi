@@ -11,13 +11,8 @@
 
 
 [![LinkedIn]:(https://www.linkedin.com/in/vishwanath-jaladi-4984ab387)]
-💻 Tech Stack
-�
-�
-�
-�
-�
-�
+
+
 📚 Currently Learning
 Python Programming
 Artificial Intelligence Basics
